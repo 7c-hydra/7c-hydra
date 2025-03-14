@@ -4,3 +4,4 @@
 Steven Jenkins
 -  Penetration Tester 
 -  Cloud Builder and AI Researcher
+-  Intelligence Expert
